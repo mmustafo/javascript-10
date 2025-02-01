@@ -1,4 +1,4 @@
-// 7gacha darsda korganmiz/
+// 7gacha darsda korganmiz!!
 // 1
 // function getLevel2(n) {
 //      let result = []
